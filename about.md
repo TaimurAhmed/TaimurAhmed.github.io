@@ -26,14 +26,14 @@ You can find the source code for Jekyll at GitHub:
   }
 </style>
 
-### Past
+#### Past
 I started life as a finance undergrad before going of and getting work
 experience in political advisory (UK Parliament) and subsequently management 
 consulting. At some point between programming financial models and 
 querying campaign databases I realised my next step should be
 a postgrad in Computer Science at the University of Bristol.
 
-### Present
+#### Present
 
 I graduated with a Distinction in 2017 and a few days after my handing
 in my thesis started a research position at the University of Bristol.
@@ -43,13 +43,13 @@ visual impairments and otherwise, by bringing them together during collaborative
 experiences at school. I also TA at Uni for a few courses at the University spanning intro to 
 programming, DB's & Cloud Computing and interactive prototyping.
 
-### Future
+#### Future
 
 I am  on the lookout for oppurtunities that meld my diverse
 work experience in commercial with my technical knowledge in tech.
 Feel free to shout at me on twitter, linkedin or just email me !
 
-### FYI I am human
+#### Evidence I am Human
 
 Outside of learning new tech related things, i enjoy reading like a 
 crazy person (Douglas Adams and Jonathan Stroud ftw) and perfecting
