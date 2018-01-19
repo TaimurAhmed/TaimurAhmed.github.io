@@ -22,7 +22,7 @@ You can find the source code for Jekyll at GitHub:
 
 <style type="text/css" media="screen">
   * {
-    font-size: 0.8em;
+    font-size: 1em;
   }
 </style>
 
@@ -50,7 +50,7 @@ I am  keen for interesting oppurtunities that meld my diverse
 work experience in commercial with my technical knowledge in tech.
 Feel free to shout at me on twitter, linkedin or just email me !
 
-#### Evidence I'm Human
+#### Interests
 
 Outside of learning new tech related things, i enjoy reading (Douglas
 Adams and Jonathan Stroud ftw) and perfecting recipies I actively steal
