@@ -19,7 +19,12 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll
 -->
 
-<span style="font-size: 4em;">
+
+<style type="text/css" media="screen">
+  * {
+    font-size: 1px;
+  }
+</style>
 
 ### Past
 I started life as a finance undergrad before going of and getting work
@@ -44,11 +49,11 @@ I am  on the lookout for oppurtunities that meld my diverse
 work experience in commercial with my technical knowledge in tech.
 Feel free to shout at me on twitter, linkedin or just email me !
 
-##### FYI I am human
+### FYI I am human
 
 Outside of learning new tech related things, i enjoy reading like a 
 crazy person (Douglas Adams and Jonathan Stroud ftw) and perfecting
-Pakistani cooking recipies I steal of my grandmother (I make a mean
+Pakistanicooking recipies I steal of my grandmother (I make a mean
 shrimp biryani) 
 
 
