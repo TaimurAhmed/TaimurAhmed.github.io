@@ -21,7 +21,7 @@ You can find the source code for Jekyll at GitHub:
 
 
 <style type="text/css" media="screen">
-  .post-content {
+  .post-content <p> {
     font-size: 1em;
   }
 </style>
