@@ -16,7 +16,7 @@
 title: Taimur Ahmed
 email: ta16969@my.bristol.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website, you can find information about me and my work here. Have fun !
+  Welcome to my website, you can find info about me and my work here. Enjoy !
  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
